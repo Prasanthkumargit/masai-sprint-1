@@ -1,0 +1,56 @@
+#id1{
+
+      background-color: green;
+      text-align: center;
+      color: gold;
+      padding: 10px;
+      margin: 50px;
+
+}
+
+#id2{
+
+      
+      background-color: lightcoral;
+      color: indigo;
+      text-align: initial;
+
+    padding: 10px;
+
+}
+#id3{
+
+      
+    background-color: yellow;
+    color : red;
+    text-align: right;
+    margin: 40px;
+
+  
+
+
+
+}
+
+div{
+    background-color: burlywood;
+    color: black;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+a { 
+
+    background-color: chocolate;
+    color: cornsilk;
+    font-size: 50px;
+   
+
+
+}
+
+ol{
+
+    color: darkgoldenrod;
+    font-size: 30px;
+}
